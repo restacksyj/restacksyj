@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently pursuing my Masters in Computer Science at Suny Buffalo, New York. \
+Some of my popular projects
+1. Lyrik - 50,000+ downloads on the [Play Store](https://play.google.com/store/apps/details?id=com.buildjuice.lyriks&hl=en_US)
+
+I use Neovim, btw.
+  
